@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wowls\\Desktop\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\wowls\\Desktop\\LanguageGame\\LanguageGame\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF23F588-6F11-401B-814F-471F8AB8B891}|Program.vcxproj|C:\\Users\\wowls\\Desktop\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DF23F588-6F11-401B-814F-471F8AB8B891}|Program.vcxproj|C:\\Users\\wowls\\Desktop\\LanguageGame\\LanguageGame\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DF23F588-6F11-401B-814F-471F8AB8B891}|Program.vcxproj|solutionrelative:Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A48F216-7C59-41E0-970D-BED5FF19A186}|..\\Class 1th (GetAsyncKeyState)\\Class 1th (GetAsyncKeyState).vcxproj|C:\\Users\\wowls\\Desktop\\LanguageGame\\LanguageGame\\Class 1th (GetAsyncKeyState)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +25,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\wowls\\Desktop\\LanguageGame\\LanguageGame\\Class 1th (GetAsyncKeyState)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class 1th (GetAsyncKeyState)\\Source.c",
+              "ToolTip": "C:\\Users\\wowls\\Desktop\\LanguageGame\\LanguageGame\\Class 1th (GetAsyncKeyState)\\Source.c",
+              "RelativeToolTip": "..\\Class 1th (GetAsyncKeyState)\\Source.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-22T16:22:14.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
-              "DocumentMoniker": "C:\\Users\\wowls\\Desktop\\Program\\Source.c",
+              "DocumentMoniker": "C:\\Users\\wowls\\Desktop\\LanguageGame\\LanguageGame\\Program\\Source.c",
               "RelativeDocumentMoniker": "Source.c",
-              "ToolTip": "C:\\Users\\wowls\\Desktop\\Program\\Source.c",
+              "ToolTip": "C:\\Users\\wowls\\Desktop\\LanguageGame\\LanguageGame\\Program\\Source.c",
               "RelativeToolTip": "Source.c",
-              "ViewState": "AgIAACwAAAAAAAAAAAAvwDEAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-12T11:18:28.193Z",
               "EditorCaption": ""
